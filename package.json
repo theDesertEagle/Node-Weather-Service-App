@@ -1,0 +1,15 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A Weather Service Node.js App Using Javascript ES6 Features, Google Geolocation API and Forecast.io API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "the.desert.eagle",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0",
+    "yargs": "^11.0.0"
+  }
+}
